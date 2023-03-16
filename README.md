@@ -5,7 +5,7 @@ Olá, sou estudante de Analise e Desenvolvimento de Sistemas na Uninter e atualm
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvferreirasantana/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvictor-br/)
 
 ## 🛠 Habilidades
 HTML 5, CSS3, Javascript, Java, OOP, Python, Node.js, Express.js, React.js, Flask, MySql, MongoDB, PostgreSQL, Sequelize, Mongoose, Firebase, Firestore, Firebase Authentication e Docker
